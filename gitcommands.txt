@@ -7,3 +7,6 @@ git status
 git commit -m "added hello.txt" (once the changes are committed)
 git status ( To see the status)
 git commit -a -m "msg" Add automatically (only for tracked files)
+git commit -am "add"
+git add .  # all
+git status
