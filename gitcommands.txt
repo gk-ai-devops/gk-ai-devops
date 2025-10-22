@@ -1,0 +1,9 @@
+git config --list
+git status
+git add hello.txt (Prepare for save)
+git status
+git restore --stage hello.txt (To unsave the file)
+git status
+git commit -m "added hello.txt" (once the changes are committed)
+git status ( To see the status)
+
