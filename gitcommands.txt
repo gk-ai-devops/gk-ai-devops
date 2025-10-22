@@ -6,4 +6,4 @@ git restore --stage hello.txt (To unsave the file)
 git status
 git commit -m "added hello.txt" (once the changes are committed)
 git status ( To see the status)
-
+git commit -a -m "msg" Add automatically (only for tracked files)
