@@ -2,7 +2,7 @@ git config --list
 git status
 git add hello.txt (Prepare for save)
 git status
-git restore --stage hello.txt (To unsave the file)
+git restore --staged hello.txt (To unsave the file)
 git status
 git commit -m "added hello.txt" (once the changes are committed)
 git status ( To see the status)
@@ -10,3 +10,16 @@ git commit -a -m "msg" Add automatically (only for tracked files)
 git commit -am "add"
 git add .  # all
 git status
+git branch -M main
+git branch
+git push -u origin main
+git log --oneline  show commit history (short)
+git remote add origin git@github.com:gk-ai-devops/gk-ai-devops.git
+git remote -v
+git push -u origin main
+git log --oneline -n 3
+git fetch origin
+git log --oneline --decorate --graph --all --boundary --left-right HEAD...origin/main
+git pull --rebase origin main
+git status
+
