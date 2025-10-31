@@ -22,4 +22,5 @@ git fetch origin
 git log --oneline --decorate --graph --all --boundary --left-right HEAD...origin/main
 git pull --rebase origin main
 git status
-
+git log → shows full details of commits (author, date, long message, commit id).
+git log --oneline → shows one short line per commit (easy to read).
