@@ -24,3 +24,11 @@ git pull --rebase origin main
 git status
 git log → shows full details of commits (author, date, long message, commit id).
 git log --oneline → shows one short line per commit (easy to read).
+git restore notes.txt  Now the file becomes exactly how it was in your last commit like you undid your writing and made it clean again.
+git restore --staged notes.txt (If you already added the file to staging area (you ran git add notes.txt) but then changed your mind:)
+git reset --soft HEAD~1 To undo the commit but keep your file staged:
+git reset HEAD~1 To undo the commit and unstage the file:
+git reset --hard HEAD~1 To remove commit and delete your changes:
+ssh -T git@github.com
+git remote -v
+
