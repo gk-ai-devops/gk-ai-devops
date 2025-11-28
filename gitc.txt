@@ -31,4 +31,21 @@ git reset HEAD~1 To undo the commit and unstage the file:
 git reset --hard HEAD~1 To remove commit and delete your changes:
 ssh -T git@github.com
 git remote -v
+git branch index
+git checkout branch
+
+==================
+create new branch and push the data from local to github !! 
+------------------
+1) git checkout -b mybranch (Create a new branch)
+2) git add -A (Add ALL your files)
+3) git commit -m "Upload all project files" (commit your work)
+4) git push -u origin mybranch (push this to new branch)
+5) git push origin --delete mybranch (Delete a REMOTE branch (on GitHub))
+6) git checkout main (Switch branch)
+7) git branch (to see list of the branches)
+8) git branch -d mybranch (to delete the branch normally)
+9) git branch -D mybranch (To delete teh branch forcefully)
+=========================================
+
 
