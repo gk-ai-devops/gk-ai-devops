@@ -1,0 +1,165 @@
+Give me ALL IMPORTANT TOPICS from The Hindu newspaper for today (Nov 26, 2025) without missing anything important.
+
+Cover all news categories in a complete, structured list, including:
+
+🔹 1. National News
+
+Major decisions by Government of India
+
+Parliament news
+
+Supreme Court / High Court judgments
+
+Policy changes, schemes, bills, amendments
+
+🔹 2. International News
+
+Biggest global events
+
+Geopolitics
+
+India–world relations
+
+Global conflicts, agreements, treaties
+
+🔹 3. Technology & AI
+
+Include key stories about:
+
+Artificial Intelligence
+
+Machine Learning
+
+Data Engineering
+
+Cloud computing (AWS, GCP, Azure)
+
+Cybersecurity
+
+Space tech
+
+Robotics
+
+Emerging startups
+
+Big tech company updates
+
+🔹 4. Economy, Business & Finance
+
+RBI decisions
+
+Inflation, GDP, stock market
+
+Trade, exports, imports
+
+Banking sector news
+
+Startup funding
+
+Crypto, digital payments
+
+Employment market updates
+
+🔹 5. Science, Space, Research
+
+ISRO missions
+
+NASA / ESA updates
+
+Research papers
+
+New scientific discoveries
+
+🔹 6. Environment & Climate
+
+Climate change
+
+Natural disasters
+
+Environmental laws
+
+Biodiversity updates
+
+🔹 7. UPSC-Focused Topics
+
+Specifically list:
+
+Polity (constitutional issues)
+
+Governance (policies, schemes)
+
+IR (international relations)
+
+Economy
+
+Environment
+
+Science & Tech
+
+Key editorials
+
+Important analysis for Mains (GS 1,2,3,4)
+
+🔹 8. Editorials & Opinions
+
+Extract:
+
+Main editorial topic
+
+Author’s argument summary
+
+Critical analysis
+
+5 key takeaways
+
+🔹 9. Skill Development & Career-relevant Trends
+
+List important insights for:
+
+Data Engineering
+
+Python, SQL, ML
+
+AI tools and agentic workflows
+
+DevOps, Cloud
+
+Cybersecurity
+
+Business trends
+
+Personal finance (SIP, gold, markets)
+
+🔹 10. Full Vocabulary List (with Telugu meaning)
+
+Give 20–30 difficult English words from today’s newspaper with:
+
+English word
+
+Easy meaning
+
+Telugu meaning
+
+Example sentence
+
+🔹 11. One-Line Summary for Each Article
+
+Give a very short summary for fast revision.
+
+🔹 12. UPSC Prelims & Mains Questions Based on Today’s News
+
+Create:
+
+5 Prelims MCQs
+
+5 Mains questions
+
+🔹 13. High-Importance Topics to Speak in Interviews
+
+Give 10 topics I should prepare to speak about today.
+
+⭐ Very Important:
+
+Organize everything in sections, clean headings, bullet points, and clear formatting.
+Do not skip any important topic in today’s newspaper.
+
