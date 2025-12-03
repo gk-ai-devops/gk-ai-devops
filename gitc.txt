@@ -47,6 +47,6 @@ create new branch and push the data from local to github !!
 8) git branch -d mybranch (to delete the branch normally)
 9) git branch -D mybranch (To delete teh branch forcefully)
 =========================================
-
-
+git clean -fd  (Delete ALL untracked files & folders)
+git clean -fdn (n = dry run → shows what will be removed but does NOT delete)
 
