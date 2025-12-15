@@ -1,6 +1,1 @@
-create table gopi_table (
-    id int primary key,
-    name varchar(50),
-    class int,
-    marks int
-);
+select class,count(*) from gopi_table where class in (8,9,10) group by class;a
